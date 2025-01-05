@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ziemann
 
-I'm currently working as a **Research Engineer** at [Ultrasound Labs](https://github.com/ultrasoundlabs), passionate about the future of **crypto** and **blockchain** technologies. 
+I'm currently actively contributing to [Ultrasound Labs](https://github.com/ultrasoundlabs), passionate about the future of **crypto** and **blockchain** technologies. 
 I have several interests including **applied mathematics**, **cryptography**, **AI**, and **neuroscience**.
 
 ### 🛠 What I Do
